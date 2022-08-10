@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbar-area .main-page{
+    padding-top: 50px !important; 
+}
+
+#navbar-area .main-page .jumbo-area{
+    background: whitesmoke;
+    width: 70%;
+    height: 160px;
+}
+
+#navbar-area .main-page .jumbo-area h1{
+    font-weight: 800;
+}
+
+#navbar-area .main-page .row-area{
+    padding-top: 50px !important; 
+
+}
+
+.sidebar-bg{
+    background-color: gray;
+}
